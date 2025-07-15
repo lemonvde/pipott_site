@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: How Did You Get Here?
+draft: false
+tags: []
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Someone is an inquisitive quokka.
+# This is my page
