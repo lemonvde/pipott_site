@@ -14,3 +14,9 @@ publish: true
 <img src="kobold_03.webp" style="float: right; width: 150px; height: auto; margin-left: 1rem;" />Kobolds are skilled at working together by necessity, and they often set up ambushes or hit-and-run assaults that allow them to do the most damage possible without being harmed in return.
 
 The party found an organised collective of Kobolds underneath the [[Otari Fishery]], attempting to raise a freshly hatched [[Horned Dragon|horned dragon]]. The Kobolds were fooled by the group's clever disguises and feigned support before quickly succumbing to a trap.
+# Interactions with the Party
+- Discovered underneath [[Otari Fishery]] after stealing food to feed their newborn [[Horned Dragon|dragon]].
+- Tricked into a one-sided alliance against a "mysterious" enemy that was actually the party.
+- Slaughtered by a mermaid fountain trap.
+- Their "King" was eaten by the dragon as [[Caligo]] watched from the shadows.
+<img src="kobold_02.webp" style="display: block; margin: 0 auto; width: 30%;" />
