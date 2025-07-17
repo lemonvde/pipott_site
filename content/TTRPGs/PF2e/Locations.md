@@ -8,7 +8,6 @@ tags:
   - ttrpgs
 publish: true
 ---
- 
 **[[Blades for Glades]]**
 - Otari's primary smithy, which sells armour and weapons in addition to saws and axes.
 - Owned by [[Carman Rajani]].
@@ -37,3 +36,34 @@ publish: true
 
 **[[Odd Stories]]**
 - A bookstore run by a fiction-loving wizard named [[Morlibint]].
+
+**[[Otari Fishery]]**
+- Fishery and shipyard by day, gathering place for games and entertainment by night, run by [[Tamily Tanderveil]].
+
+**[[Otari Garrison]]**
+- A squat, bunker-like stone building that houses Otari’s civic guards.
+- Captained by [[Lardus Lonsaddle]], the guards here keep the peace in town and patrol the surrounding roads to ensure they stay free of banditry and trouble. The guards also serve as the town’s firefighters.
+
+**[[Otari Graveyard]]**
+- A clifftop cemetery that's mostly quiet but has a sinister atmosphere. It holds crumbling mausoleums and groves of leafless trees. Few enter this ancient cemetery other than the acolytes who tend it.
+
+**[[Otari market]]**
+- The one-stop shop for food, tools, and other everyday gear.
+- Owned by [[Keeleno Lathenar]].
+
+**[[Ruins of The Thirsty Alpaca]]**
+- Once the largest tavern in town, until it suddenly collapsed in a recent disaster.
+
+**[[Stone Ring Pond]]**
+- A mysteriously clear pool surrounded by ancient standing stones.
+- The site is usually occupied by polite but aloof pilgrims of [[Desna]] or of [[Gozreh]], the god of nature.
+- A kindly nature priest named [[Worliwynn]] is the site’s only permanent resident, and she helps the loggers work harmoniously with nature.
+
+**[[The Giant's Wheel]]**
+- An enormous waterwheel that powers the lumber equipment in the Otari Mill.
+- The Giant’s Wheel has belonged to the Menhemes family for generations, but it isn’t exclusively used by the Otari Mill. The other two lumber companies pay to use the mill as well.
+- Foremaned by [[Klorte Hengus]].
+
+**[[The Loading Flume]]**
+- This long flume sends water diverted from the [[Osprey River]] and timber from the [[The Giant's Wheel|Giant’s Wheel]] hundreds of feet south to the harbour for easy loading onto ships.
+- The loading flume has long been a draw to local youths who enjoy “riding the chute,” but [[Klorte Hengus|Klorte]] keeps a wary eye out for such foolishness.
