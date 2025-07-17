@@ -1,7 +1,11 @@
 ---
 title: The Founding of Otari
 draft: false
-tags: 
+tags:
+  - golarion
+  - otari
+  - pf2e
+  - ttrpgs
 publish: true
 ---
 # A Quick History

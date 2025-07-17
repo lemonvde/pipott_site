@@ -1,0 +1,1 @@
+<img src="{image-name}" style="float: left; width: {int}px; height: auto; margin-right: 1rem;" />

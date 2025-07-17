@@ -2,10 +2,10 @@
 title: Otari
 draft: false
 tags:
-  - ttrpgs
-  - pf2e
   - golarion
   - otari
+  - pf2e
+  - ttrpgs
 publish: true
 ---
 ## History

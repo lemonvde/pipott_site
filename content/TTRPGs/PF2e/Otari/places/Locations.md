@@ -2,8 +2,8 @@
 title: Otari Locations
 draft: false
 tags:
-  - otari
   - golarion
+  - otari
   - pf2e
   - ttrpgs
 publish: true
