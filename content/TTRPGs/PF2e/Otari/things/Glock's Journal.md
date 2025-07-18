@@ -106,7 +106,7 @@ We all fought side by side. A spider-thing came from the light, tore through us.
 [[Otari]] lives to see another day. Surprised no-one died.
 
 ---
-# Chapter 5.5 - The Cards and the Blade
+# Chapter 05.5 - The Cards and the Blade
 Went to [[Wrin Sivinxi|Wrin]] to get patched up. Figured I was done here. She pulled out a [[Harrow Deck|Harrow deck]]. Said fate had something to say. 
 
 She laid them out, spoke of pain in strength, darkness from the past, and a tyrant’s shadow... She saw survival, secrets around me, and danger close. The future held choices, power, and the threat of a fall into darkness. 
