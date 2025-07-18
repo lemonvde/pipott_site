@@ -9,11 +9,7 @@ tags:
   - players
 publish: false
 ---
-<img src="glock_token_v2.webp" style="float: left; width: 300px; height: auto; margin-right: 1rem;" /><h1>Beginnings</h1>Glock was Orphaned on the streets of [[Otari]]. Taken in by [[Yinyasmera]], tavern owner of [[Crook's Nook]]. Not out of love, but out of opportunity. Forced to fight for everything; food, shelter, a place in the family. Glock's fighting skills were forged through pain and hardship, resulting in a deep-seated survival instinct, and a mistrust of others.
-
-Glock's distant [[Orc]] heritage began to show through puberty, as he quickly grew in size and began to display inhuman strength. Glock earned renown in [[Otari]] by fighting in secret underground fighting rings, held in secret locations underneath [[Otari]]. [[Yinyasmera]] began to rig fights to her favour, and Glock played his part.
-
-<div style="display:inline-block; float: left; width:300px; font-size:11px; font-family:Arial,Helvetica,sans-serif; margin-right: 1rem; border: 1px solid #ddd; padding: 8px; box-sizing: border-box; position: relative;">
+<div style="float: left; width: 300px; height: auto; margin-right: 1rem;" ><img src="glock_token_v2.webp" /><div style="display:inline-block; float: left; width:300px; font-size:11px; font-family:Arial,Helvetica,sans-serif; margin-right: 1rem; border: 1px solid #ddd; padding: 8px; box-sizing: border-box; position: relative;">
 <div style="position: absolute; right: 8px; top: 8px; font-size: 24px; font-weight: bold; line-height: 1;">
     3
   </div>
@@ -26,7 +22,11 @@ Glock's distant [[Orc]] heritage began to show through puberty, as he quickly gr
       <div align="right">- Glock</div>
   </div></div>
   <a href="Otari.md" class="internal-link">📖 - The Writings of the So-Called Beast of Otari</a>
-</div><h1>Absalom</h1>
+</div></div><h1>Beginnings</h1>Glock was Orphaned on the streets of [[Otari]]. Taken in by [[Yinyasmera]], tavern owner of [[Crook's Nook]]. Not out of love, but out of opportunity. Forced to fight for everything; food, shelter, a place in the family. Glock's fighting skills were forged through pain and hardship, resulting in a deep-seated survival instinct, and a mistrust of others.
+
+Glock's distant [[Orc]] heritage began to show through puberty, as he quickly grew in size and began to display inhuman strength. Glock earned renown in [[Otari]] by fighting in secret underground fighting rings, held in secret locations underneath [[Otari]]. [[Yinyasmera]] began to rig fights to her favour, and Glock played his part.
+
+<h1>Absalom</h1>
 
 [[Yinyasmera]] maximised her earning potential by taking Glock, now on the cusp of adulthood, to the nearby city of [[Absalom]] - centre of the world. Glock was entered into bigger and deadlier fights at high society gatherings, experiencing the allure of burgeoning fame and earning a reputation as the "Beast of Otari". His success saw no fortune in his name, but gave [[Yinyasmera]] a foothold in [[Absalom]] to begin expanding her criminal influence.
 
