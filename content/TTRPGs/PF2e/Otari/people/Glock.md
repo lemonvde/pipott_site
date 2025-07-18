@@ -21,7 +21,7 @@ publish: false
       <div><strong>"It's Glockin' time!"</strong></div>
       <div align="right">- Glock</div>
   </div></div>
-  <a href="Otari.md" class="internal-link">📖 - The Writings of the So-Called Beast of Otari</a>
+  <a href="Glock's Journal.md" class="internal-link">📖 - The Writings of the So-Called Beast of Otari</a>
 </div></div><h1>Beginnings</h1>Glock was Orphaned on the streets of [[Otari]]. Taken in by [[Yinyasmera]], tavern owner of [[Crook's Nook]]. Not out of love, but out of opportunity. Forced to fight for everything; food, shelter, a place in the family. Glock's fighting skills were forged through pain and hardship, resulting in a deep-seated survival instinct, and a mistrust of others.
 
 Glock's distant [[Orc]] heritage began to show through puberty, as he quickly grew in size and began to display inhuman strength. Glock earned renown in [[Otari]] by fighting in secret underground fighting rings, held in secret locations underneath [[Otari]]. [[Yinyasmera]] began to rig fights to her favour, and Glock played his part.
