@@ -14,15 +14,15 @@ publish: true
 
 **[[Crook's Nook]]**
 - A sailors' tavern built as a bridge across the [[Osprey River]].
-- Owned by [[Yinyasmera]], the head of the [[Osprey Club]], Otari's thieves' guild.
+- Owned by [[Yinyasmera]], the head of the [[Osprey Club]], [[Otari|Otari's]] thieves' guild.
 - Crook’s Nook serves several purposes in town—the large wooden structure functions as a bridge over the [[Osprey River]], as a cheap place to get a room for the night, and as a tavern well known for serving the best seafood in town.,
-- Trapdoors in the tavern’s floor allow direct access to the river below for fishing, but foolhardy (or inebriated) patrons sometimes wrestle over these openings to determine who’s stronger and who’s getting wet.
-- The building’s attic serves as the guildhall for Otari’s thieves’ guild, the [[Osprey Club]]—a function that’s perhaps the town’s worst-kept secret, as evidenced by the building’s very name.
+- Trapdoors in the tavern’s floor allow direct access to the [[Osprey River|river]] below for fishing, but foolhardy (or inebriated) patrons sometimes wrestle over these openings to determine who’s stronger and who’s getting wet.
+- The building’s attic serves as the guildhall for [[Otari|Otari’s]] thieves’ guild, the [[Osprey Club]]—a function that’s perhaps the town’s worst-kept secret, as evidenced by the building’s very name.
 
 **[[Crows's Casks]]**
 - A brewery and tavern popular among local farmers and merchants.
 - Also a shrine to [[Cayden Cailean]], the god of heroes, bravery, and ale.
-- Its proprietor, [[Magiloy]], is a retired pirate who enjoys experimenting with new drinks.
+- Its proprietor, [[Magiloy]], is a retired pirate who enjoys experimenting with [[Magiloy's Homemade Brews|new drinks]].
 
 **[[Dawnflower Library]]**
 - A large library and temple to [[Sarenrae]], with shrines to many other deities, welcoming all non-evil faiths.
@@ -32,7 +32,7 @@ publish: true
 - A delivery service always in need of fast, reliable help, run by [[Oloria Gallentine]].
 
 **[[Menhemes Manor]]**
-- Home of Otari's Mayor, [[Oseph Menhemes]].
+- Home of [[Otari|Otari's]] Mayor, [[Oseph Menhemes]].
 
 **[[Odd Stories]]**
 - A bookstore run by a fiction-loving wizard named [[Morlibint]].
@@ -41,7 +41,7 @@ publish: true
 - Fishery and shipyard by day, gathering place for games and entertainment by night, run by [[Tamily Tanderveil]].
 
 **[[Otari Garrison]]**
-- A squat, bunker-like stone building that houses Otari’s civic guards.
+- A squat, bunker-like stone building that houses [[Otari|Otari’s]] civic guards.
 - Captained by [[Lardus Lonsaddle]], the guards here keep the peace in town and patrol the surrounding roads to ensure they stay free of banditry and trouble. The guards also serve as the town’s firefighters.
 
 **[[Otari Graveyard]]**
