@@ -18,3 +18,11 @@ Otari is nestled in a coastal valley between two looming cliffs. The [[Osprey Ri
 Just over 1,200 people live in Otari, drawn from all over the world. While most of these residents are humans, some [[Dwarf|dwarves]] and [[Elf|elves]] also live here. Most residents work in the local fishing and lumber industries. For the most part, people in Otari are friendly and welcoming, though they prefer its small-town feel and make lighthearted fun of visitors from big cities. Coffee is a mainstay, a favourite drink among the hardworking and early-rising townsfolk. The current mayor of Otari is [[Oseph Menhemes]], patriarch of one of three local lumber companies and owner of Otari’s famous [[The Loading Flume|lumber flume]] and mill.
 ## Trade
 The biggest business in Otari is lumber, and three families control the industry. The largest operator is [[Otari Lumber]], owned by Mayor [[Oseph Menhemes]], which operates the massive [[The Giant's Wheel|Giant's Wheel]] and the [[The Loading Flume|Loading Flume]]. [[Whistledown Cutters]] is Otari’s most financially successful lumber company due to the cunning business sense of its owner, [[Alymora Inkleholtz]]. [[Chertel Timber]], the third company, has recently struggled due to a combination of poor management, labor issues in its lumber camps, and difficulties with financing.
+
+
+| [[The Giant's Wheel]]     | [[The Loading Flume]]           | [[Menhemes Manor]]   | [[Wrin's Wonders]]  |
+| ------------------------- | ------------------------------- | -------------------- | ------------------- |
+| [[Gallentine Deliveries]] | [[Blades for Glades]]           | [[Odd Stories]]      | [[Otari Garrison]]  |
+| [[Farmer's Guild]]        | [[Crow's Casks]]                | [[Crook's Nook]]     | [[Otari Market]]    |
+| [[Otari Fishery]]         | [[Ruins of the Thirsty Alpaca]] | [[Inkleholtz Manor]] | [[Chertel Manor]]   |
+| [[The Rowdy Rockfish]]    | [[Dawnflower Library]]          | [[Stone Ring Pond]]  | [[Otari Graveyard]] |
