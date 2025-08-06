@@ -7,7 +7,6 @@ tags:
   - pf2e
   - ttrpgs
   - players
-publish: true
 ---
 <div style="float: left; width: 300px; height: auto; margin-right: 1rem;" ><img src="glock_token_v2.webp" /><div style="display:inline-block; float: left; width:300px; font-size:11px; font-family:Arial,Helvetica,sans-serif; margin-right: 1rem; border: 1px solid #ddd; padding: 8px; box-sizing: border-box; position: relative;">
 <div style="position: absolute; right: 8px; top: 8px; font-size: 24px; font-weight: bold; line-height: 1;">

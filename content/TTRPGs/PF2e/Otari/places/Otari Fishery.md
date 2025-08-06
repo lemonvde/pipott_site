@@ -6,7 +6,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: false
 ---
 _10 Fisher St._
 

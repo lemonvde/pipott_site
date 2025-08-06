@@ -7,7 +7,6 @@ tags:
   - pf2e
   - ttrpgs
   - players
-publish: true
 ---
 The brave heroes that find themselves in the middle of Otari's problems are:
 - [[Caligo]]

@@ -7,7 +7,6 @@ tags:
   - pf2e
   - players
   - ttrpgs
-publish: true
 ---
  
 _The Writings of the So-Called [[Glock|Beast of Otari]] Scrawled across leather-bound pages, the handwriting rough but deliberate._

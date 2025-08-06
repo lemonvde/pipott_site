@@ -6,7 +6,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: true
 ---
 Otari’s primary smithy specialises in the construction of saws, axes, and other tools used in the lumber trade, as well as adventuring gear, metal weapons, shields, and armour.
 Owned and run by [[Carman Rajani]].

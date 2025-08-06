@@ -5,7 +5,6 @@ tags:
   - html
   - images
   - code
-publish: true
 ---
  
 # Align Image

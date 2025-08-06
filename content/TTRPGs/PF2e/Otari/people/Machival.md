@@ -1,13 +1,12 @@
 ---
 title: Machival
-draft: true
+draft: false
 tags:
   - golarion
   - otari
   - pf2e
   - ttrpgs
   - players
-publish: false
 ---
 <div style="float: left; width: 300px; height: auto; margin-right: 1rem;" ><img src="machival_token_v2.webp" /><div style="display:inline-block; float: left; width:300px; font-size:11px; font-family:Arial,Helvetica,sans-serif; margin-right: 1rem; border: 1px solid #ddd; padding: 8px; box-sizing: border-box; position: relative;">
 <div style="position: absolute; right: 8px; top: 8px; font-size: 24px; font-weight: bold; line-height: 1;">
@@ -21,16 +20,23 @@ publish: false
       <div><strong>"Nothin' personal, kid."</strong></div>
       <div align="right">- Machival</div>
   </div></div>
-</div></div>Machival was born deep in the Darklands, where the Cavern Elves dwell in the subterranean cities and tunnels far beneath the surface. From a young age, Machival learned the importance of caution, subtlety, and patience. Life in the caverns was harsh, and survival often depended on outsmarting more dangerous creatures and rivals. As he grew older, Machival’s talents for stealth and subterfuge became evident. He was trained as a scout and infiltrator, skills that would later serve him well as a bounty hunter. However, the oppressive environment of the Darklands did not suit his ambitions. 
-# TODO: Fix this as he was captured and sold by Goblins
-Seeking more than mere survival, Machival left his home to explore the surface world, eventually finding his way to Absalom, the City at the Center of the World.
-    
-Life as a Bounty Hunter in Absalom
-Absalom, with its labyrinthine politics and teeming underworld, proved to be the perfect environment for Machival’s talents. He quickly established himself as a reliable and discreet bounty hunter, taking on jobs that others found too dangerous or complex. His methodical approach to hunting down targets—meticulous planning, thorough reconnaissance, and the use of informants—earned him a reputation as one of the best in the business. Machival's network of contacts spans the criminal underworld, the black market, and even some of the more corrupt elements of Absalom’s high society. He knows that information is power, and he leverages his connections to ensure that he is always a step ahead of his targets.
-    
-The Assignment
-One of Machival’s wealthiest and most influential employers is a prominent Absalom politician. This politician, who remains unnamed but wields considerable power, is the father of the Seven Sisters. The tragic death of his daughter Miveyn during the Tournament of the Seven Sisters has left him bitter and vengeful. Desperate to restore his family's honor and make a public example of the man accused of her murder, the politician has hired Machival to find Glock and bring him back to Absalom alive. Machival takes the job seriously, not only because of the substantial reward promised but also because of the challenge it presents. Glock is a dangerous man, known for his strength and unpredictability. But Machival is not one to be intimidated; he begins his investigation by gathering all available information on Glock, tracing his movements, and speaking with anyone who might know where the barbarian has gone. 
+</div></div>
 
-Machival's investigation takes him across Absalom and eventually to Otari, the small town where Glock grew up. Here, he learns about Glock’s early life, his brutal upbringing under Yinyasmera, and his reputation in the underground fighting rings. Machival methodically pieces together the timeline of Glock’s life, noting the barbarian’s disappearance after the events in Absalom and the rumors of his escape to Almas. The trail leads Machival to Almas, but the lead dries up when he arrives. Unable to find Glock, Machival returns to Otari, hoping that the small town might still hold some clue to his quarry’s whereabouts. By a stroke of fate, Machival arrives back in Otari just as Glock returns, both men converging on the Otari Fishery, unaware of the other’s true purpose.
-    
-In Otari, Machival is playing a careful game. He knows that Glock is dangerous, especially if cornered, so he opts to gather more information before making his move. Machival is content to bide his time, observing Glock and learning his routines, strengths, and weaknesses. The Fishery investigation provides Machival with the perfect cover; by working alongside Glock, he can learn more about his target without arousing suspicion.
+# Early Life in the [[Darklands]]
+Machival was born into the harsh environment of the [[Darklands]], where the [[Cavern Elf|Cavern Elves]] dwell in the subterranean cities and tunnels far beneath the surface. However, his life took a tragic turn when he was captured as a child and sold into slavery. His captors, [[Goblin|goblins]] who thrived in the shadowy depths of the [[Darklands]], purchased Machival and brought him into their tribe.
+# Life Among the Goblins
+Though initially a prisoner, Machival adapted to life with the [[Goblin|goblins]], learning their ways and customs. Over time, he befriended a young [[Goblin|goblin]] named [[Gox]], who became like a brother to him. The two shared a bond forged in the fires of survival, and together they learned the skills of tracking, hunting, and thievery. Machival’s natural aptitude for stealth and his quick mind made him an exceptional tracker, and he began to see the goblins as his new family.
+
+Despite the harsh conditions, Machival was resourceful. He began stealing from both enemies and allies alike, slowly accumulating enough wealth to buy his freedom. However, even after securing his release, Machival chose to remain with the [[Goblin|goblins]], living among them as one of their own. He honed his skills, becoming a formidable tracker and rogue, always with [[Gox]] by his side.
+
+Machival’s life was irrevocably altered when, during a hunting expedition, a group of adventurers attacked the [[Goblin|goblin]] tribe. When Machival returned, he found his home in ruins and his [[Goblin|goblin]] family slaughtered, including [[Gox]]. The loss of his closest friend and the only family he had ever known filled Machival with grief and a simmering resentment toward the surface dwellers.
+
+With no ties left to the [[Darklands]], Machival left the ruins of his tribe behind and made his way to the surface, eventually arriving in [[Absalom]], the City at the Center of the World.
+# Life as a Bounty Hunter in [[Absalom]]
+In [[Absalom]], Machival reinvented himself. His skills as a tracker and rogue made him a natural fit for the dangerous and lucrative work of a bounty hunter. He quickly established a reputation as a meticulous and cunning operator, known for his ability to track down even the most elusive targets. His past experiences made him cautious and thorough; he would spend weeks or even months gathering information on his targets before making a move.
+
+Machival’s network of contacts grew as he built connections with the criminal underworld, the black market, and even some of the more corrupt elements of [[Absalom|Absalom’s]] high society. He maintained a cold, calculated demeanour, always focused on the job at hand, but the pain of his past losses drove him to succeed where others might fail.
+
+One of Machival’s wealthiest and most influential employers is a prominent [[Absalom]] politician. This politician, who remains unnamed but wields considerable power, is the father of the [[Seven Sisters]]. The tragic death of his daughter [[Miveyn]] during the [[Tournament of the Seven Sisters]] has left him vengeful. He hires Machival to find [[Glock]], the man accused of [[Miveyn|Miveyn’s]] murder, and bring him back alive so that he can be publicly tried and executed.
+
+For Machival, the job is just another assignment, but the politician’s personal vendetta and the promise of a substantial reward add an extra layer of complexity. Machival begins his investigation by gathering all available information on [[Glock]], tracing his movements from [[Otari]] to [[Absalom]], and eventually to [[Almas]]. However, the trail goes cold, and Machival returns to [[Otari]], where he unexpectedly crosses paths with [[Glock]].

@@ -6,7 +6,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: true
 ---
 # A Quick History
 They say [[Otari]] was founded not by kings or merchants, but by heroes.

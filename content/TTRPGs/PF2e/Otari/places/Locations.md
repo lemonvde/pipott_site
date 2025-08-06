@@ -6,7 +6,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: true
 ---
 **[[Blades for Glades]]**
 - Otari's primary smithy, which sells armour and weapons in addition to saws and axes.

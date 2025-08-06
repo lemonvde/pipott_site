@@ -7,7 +7,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: true
 ---
 <img src="c&c_office.webp" style="display: block; margin: 0 auto;" />
 

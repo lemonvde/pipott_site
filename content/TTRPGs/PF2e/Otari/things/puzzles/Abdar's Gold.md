@@ -7,7 +7,6 @@ tags:
   - pf2e
   - ttrpgs
   - puzzles
-publish: true
 ---
 ```
 The door to this chamber silently glides open to reveal a long room. Two stone statues of priests stand in the corners along one side of the room, facing a towering statue of a man holding out both of his hands, palms up. In front of this statue is a stone altar holding nine golden coins. A voice booms out from the statue. 

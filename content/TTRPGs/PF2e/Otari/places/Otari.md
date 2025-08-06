@@ -6,7 +6,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: true
 ---
 ## History
 Otari is a small coastal town a few days' travel from the major city of [[Absalom]]. A thriving, diverse lumber town and trade port with a storied past and its fair share of sinister secrets, Otari was [[The Founding of Otari|founded]] by a group of adventurers over 400 years ago, since which it has weathered attacks from [[Kobold|kobolds]] and strange monsters, economic woes and windfalls, and cycles of prosperity and strife. Today, the town is a [[Locations|prosperous community]] with many and one of the largest settlements along the coast, but outside groups have their eye on Otari's fortunes.

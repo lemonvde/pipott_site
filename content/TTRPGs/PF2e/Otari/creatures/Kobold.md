@@ -8,7 +8,6 @@ tags:
   - ttrpgs
   - npcs
   - monsters
-publish: true
 ---
 <img src="kobold_01.webp" style="float: left; width: 150px; height: auto; margin-right: 1rem;" /><div style="display:inline-block; float: right; width:190px; font-size:11px; font-family:Arial,Helvetica,sans-serif; margin: 0 0 10px 15px; border: 1px solid #ddd; padding: 8px; box-sizing: border-box; position: relative;">
 <div style="position: absolute; right: 8px; top: 8px; font-size: 24px; font-weight: bold; line-height: 2;">

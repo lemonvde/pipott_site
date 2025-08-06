@@ -6,7 +6,6 @@ tags:
   - otari
   - pf2e
   - ttrpgs
-publish: false
 ---
 *A first-hand account of the following events has been recorded by [[Glock]] in his [[Glock's Journal|journal]].*
 
