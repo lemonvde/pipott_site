@@ -20,7 +20,9 @@ tags:
       <div><strong>"Lock and load!"</strong></div>
       <div align="right">- Radagast</div>
   </div></div>
-</div></div>Radagast the Brown, a human wizard of advanced age, has always had a deep connection to the natural world. Born far from the bustling cities of the [[Inner Sea]], he grew up in a secluded village nestled deep within a vast, ancient forest. Radagast finds his strength in the wild places of the world, drawing his power from the living essence of the land itself.
+</div></div>
+
+Radagast the Brown, a human wizard of advanced age, has always had a deep connection to the natural world. Born far from the bustling cities of the [[Inner Sea]], he grew up in a secluded village nestled deep within a vast, ancient forest. Radagast finds his strength in the wild places of the world, drawing his power from the living essence of the land itself.
 
 Radagast eventually made his way to [[Otari]], a small seaside town that had grown prosperous due to its timber trade. The surrounding woods, rich with ancient trees, were a source of both wealth and conflict. Radagast, who had by then earned the moniker "the Brown" due to his earthy robes and constant companionship of forest creatures, was drawn to the region’s untamed wilderness. Seeing the potential for harmony between the people of [[Otari]] and the forest, he decided to make his home in the deepest part of the woods.
 
