@@ -20,7 +20,7 @@ tags:
       <div><strong>"It's Glockin' time!"</strong></div>
       <div align="right">- Glock</div>
   </div></div>
-  <a href="Glock's Journal.md" class="internal-link">📖 - The Writings of the So-Called Beast of Otari</a><br /><a href="Ghouls for Dummies.md" class="internal-link">📖 - Ghouls for Dummies</a><br /><a href="My First Ghost.md" class="internal-link">📖 - My First ghost</a>
+  <a href="Glock's Journal.md" class="internal-link">📖 - The Writings of the So-Called Beast of Otari</a><br /><a href="Ghouls for Dummies.md" class="internal-link">📖 - Ghouls for Dummies</a><br /><a href="My First Ghost.md" class="internal-link">📖 - My First Ghost</a>
 </div></div><h1>Beginnings</h1>
 
 Glock was Orphaned on the streets of [[Otari]]. Taken in by [[Yinyasmera]], tavern owner of [[Crook's Nook]]. Not out of love, but out of opportunity. Forced to fight for everything; food, shelter, a place in the family. Glock's fighting skills were forged through pain and hardship, resulting in a deep-seated survival instinct, and a mistrust of others.
