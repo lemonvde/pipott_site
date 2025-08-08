@@ -319,3 +319,51 @@ They peeked into the library and saw that it was filled with [[Cult of the Ghost
 [[Caligo]] attempted to create an illusion of [[Volluk]] to draw them out of the library and not have to deal with them. Unfortunately the [[Cult of the Ghost Queen|cultists]] saw through the illusion and proceeded to attack it. [[The Party|The party]] escaped and hid in the room where they initially found the [[Lurker in Light|fey]], whilst [[Caligo]] broke off and hid in a book repair workshop.
 
 ---
+## Session 08:
+After a much-needed rest in the dark recesses of the [[Gauntlight Keep|Gauntlight’s]] depths, [[The Party|the party]] emerged from their makeshift hiding spots, still weary but determined. The stench of rot still hung in the air, and the ever-present weight of ancient necromancy pressed on their minds as they steeled themselves for what lay ahead.
+
+With cautious resolve, the group made their way into the library — a vaulted, crumbling chamber once dedicated to knowledge and arcane study, now filled with mould and crawling with the undead. To their surprise, the [[Ghoul|ghouls]] that inhabited the space did not attack. Instead, they greeted the adventurers with eerie civility. [[The Party|The party’s]] earlier betrayal of the [[Missing Osprey Thieves]] and feigned interest in joining [[Belcorra|Belcorra’s]] cult had granted them a twisted form of hospitality.
+
+As the party was led through the library and its surrounding chambers, they kept their eyes open for hidden dangers or clues about the [[Gauntlight Keep|Gauntlight’s]] deeper purpose. Amid the tour, their keen senses uncovered a long-hidden doorway, cleverly concealed behind one of the cracked, moss-covered bookshelves. The [[Ghoul|ghouls]], visibly surprised, claimed to have no knowledge of it.
+
+With the door unsealed, [[The Party|the party]] descended into a narrow stone corridor that led into a shadowy, damp cave. There, beneath an old, disused well, they encountered something far worse than [[Ghoul|ghouls]] — a [[Gibbering Mouther]], an unnatural mass of warped flesh, drooling fangs, and dozens of chattering mouths whispering madness into the air.
+
+As the creature stirred, its warped, alien voices invaded the minds of all present. The maddening gibbering confused and disoriented several adventurers, while one of the cultists was dragged screaming into the [[Gibbering Mouther|mouther’s]] mass and swallowed whole.
+
+Chaos erupted. Allies turned against one another in confusion, swinging weapons at friends and foes alike under the influence of the [[Gibbering Mouther|mouther’s]] psychic cacophony. The few who retained clarity fought with everything they had, carving deep into the mound of flesh — but with each slice, the wounds simply birthed more mouths, stretching the creature’s form and revealing horrifying glimpses of the still-living cultist trapped within.
+
+Realising their slashes were only feeding the [[Gibbering Mouther|mouther’s]] chaos, the group changed tactics. Bludgeoning weapons proved far more effective, pulverising the flesh without creating new mouths.
+
+Now bloodied and scattered, the party fights on in the echoing cave, desperate to silence the maddening whispers and survive the horror that lurks beneath the [[Gauntlight Keep|Gauntlight]].
+
+The battle rages still.
+
+---
+## Session 09:
+The battle against the gibbering mouther reached its violent crescendo. Disoriented but resolute, the heroes fought through the madness, battering the creature with blunt force until the chattering mouths fell silent. The writhing mound of flesh collapsed into a grotesque heap—its whispers finally silenced beneath the party’s will and steel.
+
+With their bond to the Cult of the Ghost Queen still intact, the group made an unusual offering: the corpse of the mouther, along with all its foul remains, delivered as a tribute. The loyal cultists dragged the aberrant body back to the temple with reverence, bearing it before Nakadaka, high priest of the ghost queen. The heroes, bloodied and exhausted, took the opportunity to rest and recover.
+
+During the respite, Caligo reached out with his magical training and restored Machival’s sight, curing the magical blindness that had impaired him.
+
+Refreshed, the party pushed onward, exploring a tunnel heading west out of the unknown chamber. Their exploration led to the discovery of a concealed door tucked behind a layer of stone—one that led back to the reading room where they first encountered Augrael.
+
+Backtracking, they followed the passage further until they found themselves once more in the caves beneath the Otari Fishery — a return to familiar ground, though the darkness now felt different, heavier somehow. After briefly inspecting the caverns, the group made the unanimous decision to return to the surface, resupply, and regroup.
+
+Back in the quiet streets of Otari, the heroes dispersed into town to restock and unwind. They visited Magalloy at Crow’s Casks, purchasing some of her renowned ale. As mugs were passed around, Glock, attempted to trick Machival into drinking a mysterious concoction. But the rogue was quicker — a deft switch of mugs left Glock drinking his own trap. To everyone’s surprise, the brew granted him a temporary surge of strength, confidence, and raw charisma. It invigorated him, visibly enhancing his athleticism and his already imposing demeanour.
+
+Next, the party made their way to Blades for Glades, where they were greeted by Carmen, the local weaponsmith. After restocking and selling salvaged weapons looted from the morlocks below the Gauntlight, they noticed something strange: two sharply dressed men entered the shop and spoke briefly with Carmen. One of them handed the smith a slip of paper—no words were exchanged with the party—and the two promptly left, leaving Carmen with an unreadable expression.
+
+Their errands continued with a stop at Odd Stories, where Morblint, the eccentric old wizard and bookseller, practically lit up upon seeing the volumes retrieved from the ruins below the Gauntlight. Eager to study the texts, he purchased them from the group and offered additional gold should they recover more. His hunger for lost knowledge bordered on obsession — but his coin was good, and his intentions seemingly benign.
+
+Finally, they stopped at Wrin’s Wonders, where the ever-curious and kind-hearted Wrin Sivinxi greeted them with unrestrained joy. The party shared tales of their harrowing descent, the ghouls they parleyed with, the strange cult, and the name whispered beneath the earth — Belcorra.
+
+Wrin's face fell into serious concern as she began to recount what she knew:
+
+- Belcorra, a powerful sorcerer from long ago, was found residing in the Gauntlight, raising the dead around it, and sowing chaos in the area.
+
+- She detailed the legend of Otari Ilvashti, the town’s namesake and founder, who was slain in the battle against Belcorra.
+
+- The adventurers who accompanied Otari avenged him, defeating Belcorra and establishing the town of Otari in his memory.
+
+Now, with whispers of her cult stirring beneath the ruins, and the Gauntlight glowing ominously once more, Wrin’s unease was palpable. She urged the group to continue their descent—to uncover the truth, before history repeated itself.
