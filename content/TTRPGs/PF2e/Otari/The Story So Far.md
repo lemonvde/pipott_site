@@ -340,30 +340,27 @@ The battle rages still.
 
 ---
 ## Session 09:
-The battle against the gibbering mouther reached its violent crescendo. Disoriented but resolute, the heroes fought through the madness, battering the creature with blunt force until the chattering mouths fell silent. The writhing mound of flesh collapsed into a grotesque heap—its whispers finally silenced beneath the party’s will and steel.
+The battle against the [[Gibbering Mouther|gibbering mouther]] reached its violent crescendo. Disoriented but resolute, the heroes fought through the madness, battering the creature with blunt force until the chattering mouths fell silent. The writhing mound of flesh collapsed into a grotesque heap—its whispers finally silenced beneath [[The Party|the party’s]] will and steel.
 
-With their bond to the Cult of the Ghost Queen still intact, the group made an unusual offering: the corpse of the mouther, along with all its foul remains, delivered as a tribute. The loyal cultists dragged the aberrant body back to the temple with reverence, bearing it before Nakadaka, high priest of the ghost queen. The heroes, bloodied and exhausted, took the opportunity to rest and recover.
+With their bond to the [[Cult of the Ghost Queen]] still intact, the group made an unusual offering: the corpse of the [[Gibbering Mouther|mouther]], along with all its foul remains, delivered as a tribute. The loyal cultists dragged the aberrant body back to the temple with reverence, bearing it before [[Nakadaka]], high priest of the [[Belcorra|ghost queen]]. The heroes, bloodied and exhausted, took the opportunity to rest and recover.
 
-During the respite, Caligo reached out with his magical training and restored Machival’s sight, curing the magical blindness that had impaired him.
+During the respite, [[Caligo]] reached out with his magical training and restored [[Machival|Machival’s]] sight, curing the magical blindness that had impaired him.
 
-Refreshed, the party pushed onward, exploring a tunnel heading west out of the unknown chamber. Their exploration led to the discovery of a concealed door tucked behind a layer of stone—one that led back to the reading room where they first encountered Augrael.
+Refreshed, [[The Party|the party]] pushed onward, exploring a tunnel heading west out of the unknown chamber. Their exploration led to the discovery of a concealed door tucked behind a layer of stone—one that led back to the reading room where they first encountered [[Augrael]].
 
-Backtracking, they followed the passage further until they found themselves once more in the caves beneath the Otari Fishery — a return to familiar ground, though the darkness now felt different, heavier somehow. After briefly inspecting the caverns, the group made the unanimous decision to return to the surface, resupply, and regroup.
+Backtracking, they followed the passage further until they found themselves once more in the caves beneath the [[Otari Fishery]] — a return to familiar ground, though the darkness now felt different, heavier somehow. After briefly inspecting the caverns, the group made the unanimous decision to return to the surface, resupply, and regroup.
 
-Back in the quiet streets of Otari, the heroes dispersed into town to restock and unwind. They visited Magalloy at Crow’s Casks, purchasing some of her renowned ale. As mugs were passed around, Glock, attempted to trick Machival into drinking a mysterious concoction. But the rogue was quicker — a deft switch of mugs left Glock drinking his own trap. To everyone’s surprise, the brew granted him a temporary surge of strength, confidence, and raw charisma. It invigorated him, visibly enhancing his athleticism and his already imposing demeanour.
+Back in the quiet streets of [[Otari]], the heroes dispersed into town to restock and unwind. They visited [[Magiloy]] at [[Crow’s Casks]], purchasing some of her renowned ale. As mugs were passed around, [[Glock]], attempted to trick [[Machival]] into drinking a mysterious concoction. But the rogue was quicker — a deft switch of mugs left [[Glock]] drinking his own trap. To everyone’s surprise, the brew granted him a temporary surge of strength, confidence, and raw charisma. It invigorated him, visibly enhancing his athleticism and his already imposing demeanour.
 
-Next, the party made their way to Blades for Glades, where they were greeted by Carmen, the local weaponsmith. After restocking and selling salvaged weapons looted from the morlocks below the Gauntlight, they noticed something strange: two sharply dressed men entered the shop and spoke briefly with Carmen. One of them handed the smith a slip of paper—no words were exchanged with the party—and the two promptly left, leaving Carmen with an unreadable expression.
+Next, [[The Party|the party]] made their way to [[Blades for Glades]], where they were greeted by [[Carman Rajani|Carman]], the local weaponsmith. After restocking and selling salvaged weapons looted from the [[Morlock|morlocks]] below the [[Gauntlight Keep|Gauntlight]], they noticed something strange: [[Two Businessmen|two sharply dressed men]] entered the shop and spoke briefly with [[Carman Rajani|Carman]]. One of them handed the smith a slip of paper—no words were exchanged with the party—and the two promptly left, leaving [[Carman Rajani|Carman]] with an unreadable expression.
 
-Their errands continued with a stop at Odd Stories, where Morblint, the eccentric old wizard and bookseller, practically lit up upon seeing the volumes retrieved from the ruins below the Gauntlight. Eager to study the texts, he purchased them from the group and offered additional gold should they recover more. His hunger for lost knowledge bordered on obsession — but his coin was good, and his intentions seemingly benign.
+Their errands continued with a stop at [[Odd Stories]], where [[Morblint]], the eccentric old wizard and bookseller, practically lit up upon seeing the volumes retrieved from the ruins below the [[Gauntlight Keep|Gauntlight]]. Eager to study the texts, he purchased them from the group and offered additional gold should they recover more. His hunger for lost knowledge bordered on obsession — but his coin was good, and his intentions seemingly benign.
 
-Finally, they stopped at Wrin’s Wonders, where the ever-curious and kind-hearted Wrin Sivinxi greeted them with unrestrained joy. The party shared tales of their harrowing descent, the ghouls they parleyed with, the strange cult, and the name whispered beneath the earth — Belcorra.
+Finally, they stopped at [[Wrin's Wonders]], where the ever-curious and kind-hearted [[Wrin Sivinxi]] greeted them with unrestrained joy. The party shared tales of their harrowing descent, the [[Ghoul|ghouls]] they parleyed with, the [[Cult of the Ghost Queen|strange cult]], and the name whispered beneath the earth — [[Belcorra]].
 
-Wrin's face fell into serious concern as she began to recount what she knew:
+[[Wrin Sivinxi|Wrin's]] face fell into serious concern as she began to recount what she knew:
+- [[Belcorra]], a powerful sorcerer from long ago, was found residing in the [[Gauntlight Keep|Gauntlight]], raising the dead around it, and sowing chaos in the area.
+- She detailed the legend of [[Otari Ilvashti]], the town’s namesake and founder, who was slain in the battle against [[Belcorra]].
+- The adventurers who accompanied [[Otari Ilvashti|Otari]] avenged him, defeating [[Belcorra]] and establishing the town of [[Otari]] in his memory.
 
-- Belcorra, a powerful sorcerer from long ago, was found residing in the Gauntlight, raising the dead around it, and sowing chaos in the area.
-
-- She detailed the legend of Otari Ilvashti, the town’s namesake and founder, who was slain in the battle against Belcorra.
-
-- The adventurers who accompanied Otari avenged him, defeating Belcorra and establishing the town of Otari in his memory.
-
-Now, with whispers of her cult stirring beneath the ruins, and the Gauntlight glowing ominously once more, Wrin’s unease was palpable. She urged the group to continue their descent—to uncover the truth, before history repeated itself.
+Now, with whispers of her [[Cult of the Ghost Queen|cult]] stirring beneath the ruins, and the [[Gauntlight Keep|Gauntlight]] glowing ominously once more, [[Wrin Sivinxi|Wrin’s]] unease was palpable. She urged the group to continue their descent—to uncover the truth, before history repeated itself.
