@@ -1,13 +1,14 @@
 ---
-title: .... . .-.. .--.
+title: TTRPGs
 draft: false
 tags:
+  - pf2e
+  - ttrpgs
 ---
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>No Subscription Required</title>
   <style>
     body {
       text-align: center;
@@ -49,12 +50,8 @@ tags:
 </head>
 <body>
 
-  <h1>NO SUBSCRIPTION REQUIRED</h1>
-
   <div class="link-grid">
-    <a href="Projects.md" class="internal-link">Projects</a>
-    <a href="TTRPGs.md" class="internal-link">TTRPGs</a>
-    <a href="My First Ghost.md" class="internal-link">More</a>
+    <a href="Otari.md" class="internal-link">Otari (PF2e)</a>
   </div>
 
 </body>

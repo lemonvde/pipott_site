@@ -18,10 +18,57 @@ Just over 1,200 people live in Otari, drawn from all over the world. While most 
 ## Trade
 The biggest business in Otari is lumber, and three families control the industry. The largest operator is [[Otari Lumber]], owned by Mayor [[Oseph Menhemes]], which operates the massive [[The Giant's Wheel|Giant's Wheel]] and the [[The Loading Flume|Loading Flume]]. [[Whistledown Cutters]] is Otari’s most financially successful lumber company due to the cunning business sense of its owner, [[Alymora Inkleholtz]]. [[Chertel Timber]], the third company, has recently struggled due to a combination of poor management, labor issues in its lumber camps, and difficulties with financing.
 
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <style>
 
-| [[The Giant's Wheel]]     | [[The Loading Flume]]           | [[Menhemes Manor]]   | [[Wrin's Wonders]]  |
-| ------------------------- | ------------------------------- | -------------------- | ------------------- |
-| [[Gallentine Deliveries]] | [[Blades for Glades]]           | [[Odd Stories]]      | [[Otari Garrison]]  |
-| [[Farmer's Guild]]        | [[Crow's Casks]]                | [[Crook's Nook]]     | [[Otari Market]]    |
-| [[Otari Fishery]]         | [[Ruins of the Thirsty Alpaca]] | [[Inkleholtz Manor]] | [[Chertel Manor]]   |
-| [[The Rowdy Rockfish]]    | [[Dawnflower Library]]          | [[Stone Ring Pond]]  | [[Otari Graveyard]] |
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 250px);
+      gap: 20px;
+      justify-content: center;
+      margin-top: 2em;
+    }
+
+    .link-grid a {
+      display: block;
+      padding: 15px 20px;
+      font-size: 1em;
+      text-align: center;
+      text-decoration: none;
+      border: 2px solid #333;
+      transition: background 0.3s, transform 0.1s;
+    }
+
+    .link-grid a:hover {
+      transform: scale(1.02);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="link-grid">
+    <a href="The Giant's Wheel.md" class="internal-link">The Giant's Wheel</a>
+    <a href="The Loading Flume.md" class="internal-link">The Loading Flume</a>
+    <a href="Menhemes Manor.md" class="internal-link">Menhemes Manor</a>
+    <a href="Wrin's Wonders.md" class="internal-link">Wrin's Wonders</a>
+    <a href="Gallentine Deliveries.md" class="internal-link">Gallentine Deliveries</a>
+    <a href="Blades for Glades.md" class="internal-link">Blades for Glades</a>
+    <a href="Odd Stories.md" class="internal-link">Odd Stories</a>
+    <a href="Otari Garrison.md" class="internal-link">Otari Garrison</a>
+    <a href="Farmer's Guild.md" class="internal-link">Farmer's Guild</a>
+    <a href="Crow's Casks.md" class="internal-link">Crow's Casks</a>
+    <a href="Crook's Nook.md" class="internal-link">Crook's Nook</a>
+    <a href="Otari Market.md" class="internal-link">Otari Market</a>
+    <a href="Otari Fishery.md" class="internal-link">Otari Fishery</a>
+    <a href="Ruins of the Thirsty Alpaca.md" class="internal-link">Ruins of the Thirsty Alpaca</a>
+    <a href="Inkleholtz Manor.md" class="internal-link">Inkleholtz Manor</a>
+    <a href="Chertel Manor.md" class="internal-link">Chertel Manor</a>
+    <a href="The Rowdy Rockfish.md" class="internal-link">The Rowdy Rockfish</a>
+    <a href="Dawnflower Library.md" class="internal-link">Dawnflower Library</a>
+    <a href="Stone Ring Pond.md" class="internal-link">Stone Ring Pond</a>
+    <a href="Otari Graveyard.md" class="internal-link">Otari Graveyard</a>
+  </div>
+
+</body>
