@@ -10,6 +10,20 @@ tags:
 *A first-hand account of the following events has been recorded by [[Glock]] in his [[Glock's Journal|journal]].*
 
 ---
+# Session 01:
+Our heroes; [[Glock]], [[Jhaan]], [[Machival]], and [[Radagast]], were approached by [[Tamily Tanderveil]] at the [[Otari Fishery]], who sought help with a troubling problem—fish were going missing from her basement storage. She suspected something large was eating them.
+
+Answering the call, [[The Party|the party]] descended into the [[Otari Fishery|fishery’s]] basement, where they discovered the culprits: a pack of unusually [[Giant Rat|large rats]]. The fight was fierce, but the heroes prevailed. The rats had emerged from a sizeable hole in the basement wall, leading to a small drop deeper underground. Curious, the party ventured in.
+
+They soon found themselves in a cavern choked with spiderwebs. [[Glock]] attempted to burn the webs with his torch, drawing out a [[Giant Spider|massive spider]]. It was slain swiftly by the combined efforts of the party.
+
+Their exploration revealed more dangers — a small tomb, once sealed, from which undead had begun to stir. 
+
+Further on, they came across a side chamber hidden above one of the cave halls. The entrance was marked by double wooden doors carved with ornate designs. Inside, a statue of a great octopus loomed over an altar, its stone tentacles reaching toward a carved bowl of water. Suspecting traps but unwilling to leave such a prize behind, they took the bowl and continued.
+
+Deeper still, the party encountered a group of [[Kobold|kobolds]] attempting to break into a storeroom. The battle was hard-fought, but the heroes emerged victorious. Choosing caution, they rested within the safety of the storeroom, concealed from any wandering threats.
+
+---
 # SESSION 02:
 
 [[Glock]], [[Machival]], [[Radagast]], and [[Jhaan]] awoke in the storeroom, after securing it the night before when they killed the two [[Kobold|Kobolds]] inside.
@@ -69,7 +83,7 @@ This vengeance was carried out by scooping up the water around their ankles and 
 [[Radagast]] sent a quick telekinetic message to the [[Kobold]] he originally spoke with, letting it know how to disarm the [[Mermaid Fountain|fountain]], before he joined [[Glock]], [[Jhaan]], and [[Machival]] to finish off the weakened [[Cinder Rat|rat]] with some powerful bolts of magic.
 
 ---
-## SESSION 03:
+# SESSION 03:
 
 [[Glock]], [[Radagast]], [[Machival]], and [[Jhaan]], cautiously entered the waterlogged chamber to investigate the remaining two elemental orbs. Glock threw a spear at the air-orb, planning to get ahead of another elemental rat before it could attack him. However, there was no elemental rat, and the spear did nothing to the orb. Instead, the spear just clattered to the ground.
 
@@ -177,7 +191,7 @@ After some clever logistics involving a feather-falling feather and [[Jodi|Jodi�
 [[Scrawng]] did not even hesitate, and instructed his [[Goblin|goblins]] to move the [[Horned Dragon|dragon]] into one of the towers he used for his [[Giant Fly|giant flies]].
 
 ---
-## Session 04:
+# Session 04:
 
 [[Radagast]], [[Caligo]], and [[Glock]], all awoke in the [[Crow’s Casks]] to the noise of the bustling tavern downstairs. They noticed that [[Jhaan]] had already bounced, likely to watch over the cave until backup arrived.
 
@@ -219,6 +233,10 @@ Wasting no time, and eager to see [[Machival]] pay for his transgressions, [[The
 
 [[Machival]] suddenly slipped his restraints, and accepted a pouch of gold from [[Lardus Lonsaddle|Longsaddle]] for the direct delivery of [[Glock]], who was then served with an arrest warrant for the murder of [[Miveyn|his beloved]], and locked up in a cell.
 
+---
+
+# Session 05
+
 A guard came rushing into the gaol, insisting that [[Lardus Lonsaddle|Longsaddle]] was needed upstairs for an emergency. The dead had started to rise in [[Otari Graveyard|Otari’s graveyard]], illuminated by a strange blue light coming from the [[Gauntlight Keep|Gauntlight]], and they were throwing themselves over the cliff and down onto the [[Dawnflower Library|library]]. The town guards rushed off to the [[Otari Graveyard|graveyard]] at once to contain the dead and protect the town. [[Caligo]] followed without hesitation.
 
 [[Machival]] decided he wasn’t too keen on facing the undead without some real backup, and reluctantly decided he would break [[Glock]] out of gaol, and try to make amends, if only to deal with the current threat. [[Glock]] was skeptical, having been betrayed twice already in as many days, but he also did not want to see his home ravaged by the dead, and put his issues with [[Machival]] aside, temporarily.
@@ -236,7 +254,7 @@ Driven by fear, adrenaline, and anger, the remaining guards wailed on the [[Scal
 The guards quickly cut off any access to the [[Otari Graveyard|graveyard]], watching over it in case any more dead rose up. Exhausted by the day’s excitement, [[The Party|the party]] broke off and headed into town to find some well deserved rest. [[Machival]] returned to the [[Rowdy Rockfish]], [[Glock]] the [[Crow’s Casks]], and [[Radagst]] to the pond with [[Worliwynn]]. [[Caligo]], however, was keen to push on and discover the source of this dark magic in the [[Gauntlight Keep|Gauntlight]]. Taking out the [[Hand-Drawn Map|hand drawn map]] his had discovered in the caverns the day before, he once again examined it for anything that might relate to the [[Gauntlight Keep|Gauntlight]], but discovered, instead, the lines of the map shift and morph into words, forming a [[Hand-Drawn Map|letter]].
 
 ---
-## Session 05:
+# Session 06:
 
 [[Machival]] and [[Glock]] headed out of town, back to the [[Gauntlight Keep]] after convincing [[Wrin Sivinxi|Wrin]] to join them. Radagast bid farewell to [[Worliwynn]] and set out to find the rest of [[The Party|the party]] in town.
 
@@ -281,7 +299,22 @@ At the end of the hall they discovered a room filled with mist that began to swi
 This left [[Glock]] and [[Radagast]] to fight the [[Mist Stalker|creature]] alone, which they did valiantly. Though [[Glock]] was on the front lines, and supported by [[Radagast]] from the rear, he still took considerable damage before finally plucking the [[Mist Stalker|creature’s]] single eye out of its head with a well-placed, and powerful blow - this also very much killed the [[Mist Stalker|creature]].
 
 ---
-## Session 07:
+
+# Session 07:
+After [[Glock]] and [[Radagast]] had slain the [[Mist Stalker]], [[Machival]] and [[Caligo]] rejoined them. 
+
+Driven by his relentless urge to press forward, [[Machival]] stumbled into the lair of a [[Skeletal Giant|skeletal minotaur]], rousing the undead brute from its slumber. The creature’s rusted glaive swung dangerously, but [[Machival]] managed to wrench it free from its bony grip. [[Glock]] seized the opportunity, toppling the creature to the ground and crushing it before it could rise again.
+
+Their search of the surrounding chambers led to a strange discovery — a small, rotting cell whose walls were being licked clean by a grotesque, [[Zozzlarin|insect-like creature]]. The thing lashed out, biting [[Glock]] before vanishing into thin air. Thinking quickly, [[Glock]] hurled a cloud of chalk into the air, revealing the creature’s outline. Rather than kill it, the party managed to subdue and bind the strange being, with [[Glock]] strapping it to his back like an unsettling living backpack.
+
+The bite wound festered quickly, but [[Radagast|Radagast’s]] practiced medicinal skill cleaned and bound it before the infection could take hold. Not long after, the group encountered a hunched, pale-skinned [[Morlock|morlock]] who introduced himself — through gestures and grunts — as [[Graulgust]], the very target [[Augrael]] had asked them to slay. Lacking a shared language, [[Caligo]] resorted to an impromptu game of charades to communicate. To the party’s surprise, [[Graulgust]] had no interest in fighting; instead, he asked them to hunt a [[River Drake|river drake]] that had been plaguing his territory.
+
+The drake was found sleeping in an underground lake. The heroes struck swiftly, but the battle was vicious — the beast nearly dragged [[Radagast]] under before [[Glock]] delivered the killing blow, claiming its head as a trophy. 
+
+Pleased, [[Graulgust]] offered them a tour of his domain, leading them to a makeshift prison where he kept three captured [[Missing Osprey Thieves|Osprey thieves]]. With a toothy grin, he made the party an offer: join his clan… or die.
+
+---
+# Session 08:
 
 [[The Party|The party]] resumed their explorations of the dungeon inside of the prison that [[Gralgust]] took them to. They discovered the three [[Missing Osprey Thieves|Osprey thieves]] that were rather beaten up and malnourished and hatched a plan to rescue them from the watching [[Graulgust]] and his [[Morlock Engineer|Engineers]], rather than become enslaved by [[Graulgust]].
 
@@ -319,7 +352,7 @@ They peeked into the library and saw that it was filled with [[Cult of the Ghost
 [[Caligo]] attempted to create an illusion of [[Volluk]] to draw them out of the library and not have to deal with them. Unfortunately the [[Cult of the Ghost Queen|cultists]] saw through the illusion and proceeded to attack it. [[The Party|The party]] escaped and hid in the room where they initially found the [[Lurker in Light|fey]], whilst [[Caligo]] broke off and hid in a book repair workshop.
 
 ---
-## Session 08:
+# Session 09:
 After a much-needed rest in the dark recesses of the [[Gauntlight Keep|Gauntlight’s]] depths, [[The Party|the party]] emerged from their makeshift hiding spots, still weary but determined. The stench of rot still hung in the air, and the ever-present weight of ancient necromancy pressed on their minds as they steeled themselves for what lay ahead.
 
 With cautious resolve, the group made their way into the library — a vaulted, crumbling chamber once dedicated to knowledge and arcane study, now filled with mould and crawling with the undead. To their surprise, the [[Ghoul|ghouls]] that inhabited the space did not attack. Instead, they greeted the adventurers with eerie civility. [[The Party|The party’s]] earlier betrayal of the [[Missing Osprey Thieves]] and feigned interest in joining [[Belcorra|Belcorra’s]] cult had granted them a twisted form of hospitality.
@@ -339,7 +372,7 @@ Now bloodied and scattered, the party fights on in the echoing cave, desperate t
 The battle rages still.
 
 ---
-## Session 09:
+# Session 10:
 The battle against the [[Gibbering Mouther|gibbering mouther]] reached its violent crescendo. Disoriented but resolute, the heroes fought through the madness, battering the creature with blunt force until the chattering mouths fell silent. The writhing mound of flesh collapsed into a grotesque heap—its whispers finally silenced beneath [[The Party|the party’s]] will and steel.
 
 With their bond to the [[Cult of the Ghost Queen]] still intact, the group made an unusual offering: the corpse of the [[Gibbering Mouther|mouther]], along with all its foul remains, delivered as a tribute. The loyal cultists dragged the aberrant body back to the temple with reverence, bearing it before [[Nakadaka]], high priest of the [[Belcorra|ghost queen]]. The heroes, bloodied and exhausted, took the opportunity to rest and recover.
