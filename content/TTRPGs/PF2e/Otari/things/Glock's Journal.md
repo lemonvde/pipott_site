@@ -200,7 +200,6 @@ Regrouped outside the library. More [[Ghoul|ghouls]]. [[Lurker in Light|Fairy]] 
 Now I’ve gotta track him down. Again.
 
 ---
-
 # Chapter 09 – Wisps and Close Calls
 Waited for things to quiet down. [[Machival]] stumbled — still blind — right into [[Caligo|Caligo’s]] hiding spot. Regrouped in the reading room where [[Machival]] went blind, then found some stairs down. 
 
@@ -222,6 +221,7 @@ Too close. Not my first brush with death, but guess it’s not my time today.
 
 Needed to rest, but had to be smart – this room had too many doors, and [[Caligo]] said more trouble hid behind them. Retreated back upstairs to recover and figure out the next move.
 
+---
 # Chapter 10 – Mouths in the Dark
 Finally got some rest. Not enough. Air stinks of rot here. Feels like the walls are breathing death. 
 
@@ -236,7 +236,8 @@ Doors are for opening. Stairs went down into another cave. That’s where we fou
 Cutting this thing just made more mouths. Switched to smashing. Hurt it more, but the thing kept coming. 
 
 The voices still in my head. Feels like I can’t control myself.
-    
+
+---
 # Chapter 11 – Drinks, Deals, and Dead Sorcerers
 Kept swinging till the [[Gibbering Mouther|flesh pile]] shut up for good. Thing finally dropped, just meat on the floor now. Offering to the [[Cult of the Ghost Queen|cult]] – they hauled it off like it was holy. Don’t want to know what happens next. 
 
