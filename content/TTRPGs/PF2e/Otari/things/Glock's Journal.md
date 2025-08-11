@@ -182,7 +182,7 @@ Took [[Graulgust|Graulgust’s]] head, fancied a trophy. [[Augrael|Lazy Ghoul]] 
 
 Found a [[Cult of the Ghost Queen|cult of hungry ghouls]]. Needed a way through. They wanted flesh. We handed over the prisoners. Didn’t feel right, but they were gonna knife me the moment they could. Still hear them screaming. 
 
-Then we saw something worse. [[Volluk]]—thing made of leeches. Didn’t fight it. Yet. 
+Then we saw something worse. [[Volluk]] — thing made of leeches. Didn’t fight it. Yet. 
 
 Had time to wander, walked into some [[Ghoul|ghoul’s]] den—called himself a tattoo artist. Didn’t ask permission before he bit into my arm. Nearly died. [[Radagast]] patched me up, but I was feeling… off. [[Ghoul]] fever, they say. [[Radagast]] knew a cure, not becoming a [[Ghoul]] today. 
 
@@ -198,3 +198,66 @@ Regrouped outside the library. More [[Ghoul|ghouls]]. [[Lurker in Light|Fairy]] 
 [[Caligo]] pulled some magic—made a fake [[Volluk]]. Didn’t fool them. He bolted one way. We went the other. 
 
 Now I’ve gotta track him down. Again.
+
+---
+
+# Chapter 09 – Wisps and Close Calls
+Waited for things to quiet down. [[Machival]] stumbled — still blind — right into [[Caligo|Caligo’s]] hiding spot. Regrouped in the reading room where [[Machival]] went blind, then found some stairs down. 
+
+Led to a banquet hall—long table, rotten food, [[Undead Skeleton|skeletons]] on the floor. Blue lights floating up near the ceiling. Didn’t take long before they dropped into the bones, and we had a fight on our hands. 
+
+Got split up. I was with [[Machival]], both of us swinging blind. Heard [[Radagast]] firing from the corner, his wolf chowing down. [[Caligo]] tried raising his own [[Undead Skeleton|skeleton]] into the fight — thing fell apart. Could hear him trying to knock the bones apart with wind magic. 
+
+Cut one [[Undead Skeleton|skeleton]] down, drove my blade up through its skull. Wisp popped out, but when I’m angry my sword cuts through [[Ghost|ghosts]] just as well as bones. Then [[Machival]] went down – didn’t have time to throw a party. I was next - felt something heavy hit my head, floor rushed up to meet me. 
+
+Don’t remember what happened next. 
+
+[[Caligo]] says he figured out his staff cracked bones better than blades, but he dropped too. 
+
+[[Radagast]] saved our hides apparently. Big healing magic — picked us all up off the floor. One minute I’m on the floor, the next I feel warm, calm, like I'm being lifted back to my feet by someone - then it was rage, and I got angry again. 
+
+Turns out [[Radagast|Radagast’s]] spell burns the dead same as it heals the living. Saw one fall to the ground as I was getting up, reckon he had weakened the rest, too. Smashed the last of them to dust. [[Will-o-Wisp|Wisps]] gone for good – I double checked. 
+
+Too close. Not my first brush with death, but guess it’s not my time today. 
+
+Needed to rest, but had to be smart – this room had too many doors, and [[Caligo]] said more trouble hid behind them. Retreated back upstairs to recover and figure out the next move.
+
+# Chapter 10 – Mouths in the Dark
+Finally got some rest. Not enough. Air stinks of rot here. Feels like the walls are breathing death. 
+
+Headed into the library, about time. Never seen so many books, or so many [[Ghoul|ghouls]]. Thought they’d jump us, but they didn’t. Guess handing them [[Yinyasmera|Yin’s]] lot earlier had been a wise choice, had to tell them we’d join their [[Cult of the Ghost Queen|cult]] though - can’t fight our way out of everything. They want us to go through some sort of initiation, talked our way out of it – for now. 
+
+They showed us around, let us take some books. We kept our eyes open. Found a door hidden behind a shelf in one room. [[Ghoul|Ghouls]] swore they didn’t know about it. Not much of a tour. 
+
+Doors are for opening. Stairs went down into another cave. That’s where we found it. Or it found us. 
+
+[[Gibbering Mouther|Pile of meat and mouths]]. Gibbering in my skull. Thing must have got inside our heads — saw [[Caligo]] turn on [[Radagast|the druid’s]] dog. The [[Ghoul|Ghouls]] are all itching for flesh, and this thing is a lot of flesh. Legged it back, returned with two more. One of them got dragged in screaming. Still saw him moving inside it. 
+
+Cutting this thing just made more mouths. Switched to smashing. Hurt it more, but the thing kept coming. 
+
+The voices still in my head. Feels like I can’t control myself.
+    
+# Chapter 11 – Drinks, Deals, and Dead Sorcerers
+Kept swinging till the [[Gibbering Mouther|flesh pile]] shut up for good. Thing finally dropped, just meat on the floor now. Offering to the [[Cult of the Ghost Queen|cult]] – they hauled it off like it was holy. Don’t want to know what happens next. 
+
+[[Caligo]] fixed [[Machival|Machival’s]] eyes. Shame. 
+
+[[Ghoul|Ghouls]] wanted to turn us – last step of joining the [[Cult of the Ghost Queen|cult]]. Not. Happening. Told them we’d been bit already - not a total lie. Might have to convince them. 
+
+Found a tunnel west, hit a hidden door back to [[Augrael|Augrael’s]] reading room. Looped around and ended up under the [[Otari Fishery|Fishery]]. Been there before. Feels heavier now. Decided to head up, breathe real air. 
+
+Back to [[Otari]]. Felt strange being on the surface again. People have no idea what evil’s cooking beneath them. 
+
+Hit [[Crow’s Casks]]. Tried to slip [[Machival]] one of the [[Magiloy|Crow’s]] mystery drinks. Sneaky devil swapped them when I wasn’t looking – ended up drinking it myself. Tasted like bad mushrooms, but damn—felt strong, faster, sharper. Could’ve wrestled an ox right there in the bar. 
+
+Restocked at [[Blades for Glades]]. [[Carman|Carman]] was acting normal until [[Two Businessmen|two sharp-dressed types]] came in, handed him a slip of paper. Wouldn’t say a word to us. Left him looking like he’d swallowed a nail. 
+
+Sold some books to [[Morblint]] at [[Odd Stories]]. Old man almost drooled over them. Paid well. Wants more. Says it’s for study, but that hunger in his eyes didn’t look like just learning. Finally have some gold in my pockets, and a couple books of my own. 
+
+Had to stop by [[Wrin's Wonders|Wrin’s]]. No hard feelings about leaving us at the [[Gauntlight Keep|Keep]] - she’s fragile. Told her about the [[Ghoul|ghouls]], the [[Cult of the Ghost Queen|cult]], the name [[Belcorra]]. 
+
+That name wiped the smile off her face. Said [[Belcorra]] was some necromancer, fought [[Otari Ilvashti]] himself. Killed him. Whole town was built after they avenged him. 
+
+Now the [[Gauntlight Keep|Gauntlight’s]] glowing again. [[Wrin Sivinxi|Wrin]] says history might be repeating. Told us we had to go back down. Gave us a [[Ghoul]] makeover – should help us get past the [[Cult of the Ghost Queen|cult]]. 
+
+Guess we’re not done in the dark yet.
