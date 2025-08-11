@@ -316,7 +316,7 @@ Pleased, [[Graulgust]] offered them a tour of his domain, leading them to a make
 ---
 # Session 08:
 
-[[The Party|The party]] resumed their explorations of the dungeon inside of the prison that [[Gralgust]] took them to. They discovered the three [[Missing Osprey Thieves|Osprey thieves]] that were rather beaten up and malnourished and hatched a plan to rescue them from the watching [[Graulgust]] and his [[Morlock Engineer|Engineers]], rather than become enslaved by [[Graulgust]].
+[[The Party|The party]] hatched a plan to rescue the [[Missing Osprey Thieves|thieves]] from the watching [[Graulgust]] and his [[Morlock Engineer|Engineers]], rather than become enslaved by [[Graulgust]].
 
 They decided they would lay down a rope and lure [[Graulgust]] and his [[Morlock Engineer|engineers]] inside, tripping them over and attacking them before they could get up. The [[Missing Osprey Thieves|thieves]] all armed with shivs would then jump on the [[Morlock|morlocks]] and stab them to death.
 
@@ -341,7 +341,7 @@ The [[Missing Osprey Thieves|three Ospreys]] were screaming for help, completely
 
 She didn’t know too much more about him and avoids him pretty much at all costs. She advised the heroes to do the same. [[Volluk]] seemed very surprised to see them and was rather annoyed that they were disturbing his work
 
-[[Machival]], naturally, tried to attack him with a quick-draw of his shortbow, but [[Volluk]] discorporated into a pile of leeches that escaped through a grate in the floor before any arrows landed.
+[[Machival]], naturally, tried to attack him with a quick-draw of his short bow, but [[Volluk]] discorporated into a pile of leeches that escaped through a grate in the floor before any arrows landed.
 
 Further exploration led [[Glock]] to [[Aller Rosk]], a [[Ghoul|ghoul]]-tattoo artist in one of the chambers, who was extremely annoyed for being disturbed, announcing that he would tattoo [[Glock]] and consume his beautifully tattooed flesh. [[Aller Rosk|Aller]] was not messing around and did a considerable amount of damage to [[Glock]], almost killing him instantly, biting him and infecting him with [[Ghoul Fever|ghoul fever]], which would, given time, turn [[Glock]] himself into a flesh hungry [[Ghoul|ghoul]]. The rest of [[The Party|the party]] heard this commotion and joined the fray. [[Radagast]] took a shot at [[Aller Rosk|Aller]] with his rifle but in the end [[Augrael]] dealt the final killing blow, ending [[Aller Rosk|Aller]] and digging into his flesh for a nice quick snack.
 
@@ -354,6 +354,19 @@ They peeked into the library and saw that it was filled with [[Cult of the Ghost
 ---
 # Session 09:
 After a much-needed rest in the dark recesses of the [[Gauntlight Keep|Gauntlight’s]] depths, [[The Party|the party]] emerged from their makeshift hiding spots, still weary but determined. The stench of rot still hung in the air, and the ever-present weight of ancient necromancy pressed on their minds as they steeled themselves for what lay ahead.
+
+[[The Party|The party]] regrouped in the reading room where [[Machival]] had earlier been blinded. From there, they discovered a set of stairs descending into a banquet hall — its long table lined with rotting food, skeletal remains scattered across the floor, and faint blue lights drifting near the ceiling.
+
+It didn’t take long for those lights to descend into the bones, animating them into a squad of [[Undead Skeleton|undead skeletons]]. The fight quickly fractured the group — [[Glock]] and the still-blind [[Machival]] ended up fighting together, while [[Radagast]] held position in a corner, firing into the fray with his wolf at his side. [[Caligo]] animated his own skeleton to join the battle, but it was immediately struck down, forcing him to instead use wind magic in an attempt to knock the enemies apart.
+
+Despite the disarray, [[Glock]] cut one skeleton down and struck the ghostly wisp that emerged from its remains, his rage-fueled strikes cutting through incorporeal forms as easily as bone. However, the tide turned against them — [[Machival]] fell unconscious, followed by [[Glock]] after a heavy blow to the head. [[Caligo]], realising his staff was far more effective than a blade against brittle bones, managed to bring down several foes before also being struck down.
+
+[[Radagast]] ultimately turned the battle, channeling powerful healing magic that revived his fallen companions while simultaneously burning through the undead. His magic dropped one skeleton outright and weakened the rest enough for the others to smash them to dust once they were back on their feet. The will-o’-wisps that had animated the skeletons were destroyed in the process.
+
+The fight was dangerously close, but the party survived. With too many doors leading from the banquet hall and [[Caligo|Caligo’s]] warning of further danger nearby, the group decided to retreat upstairs to recover and plan their next move.
+
+---
+# Session 10:
 
 With cautious resolve, the group made their way into the library — a vaulted, crumbling chamber once dedicated to knowledge and arcane study, now filled with mould and crawling with the undead. To their surprise, the [[Ghoul|ghouls]] that inhabited the space did not attack. Instead, they greeted the adventurers with eerie civility. [[The Party|The party’s]] earlier betrayal of the [[Missing Osprey Thieves]] and feigned interest in joining [[Belcorra|Belcorra’s]] cult had granted them a twisted form of hospitality.
 
@@ -372,7 +385,7 @@ Now bloodied and scattered, the party fights on in the echoing cave, desperate t
 The battle rages still.
 
 ---
-# Session 10:
+# Session 11:
 The battle against the [[Gibbering Mouther|gibbering mouther]] reached its violent crescendo. Disoriented but resolute, the heroes fought through the madness, battering the creature with blunt force until the chattering mouths fell silent. The writhing mound of flesh collapsed into a grotesque heap—its whispers finally silenced beneath [[The Party|the party’s]] will and steel.
 
 With their bond to the [[Cult of the Ghost Queen]] still intact, the group made an unusual offering: the corpse of the [[Gibbering Mouther|mouther]], along with all its foul remains, delivered as a tribute. The loyal cultists dragged the aberrant body back to the temple with reverence, bearing it before [[Nakadaka]], high priest of the [[Belcorra|ghost queen]]. The heroes, bloodied and exhausted, took the opportunity to rest and recover.
